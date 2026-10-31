@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تقرير التخزين السحابي والمنصات الإلكترونية</title>
+</head>
+<body>
+
+    <h1>التخزين السحابي والمنصات الإلكترونية</h1>
+    <p><strong>اسم الطالبة:</strong> مروة أحمد سعد زيدان</p>
+    <p><strong>الرقم الجامعي:</strong> 2503242</p>
+    <p><strong>المجموعة:</strong> D</p>
+
+    <hr>
+
+    <h2>المقدمة</h2>
+    <p>يعد <strong>التخزين السحابي</strong> من أهم التقنيات الحديثة التي تعتمد عليها المنصات الإلكترونية في إدارة وتخزين البيانات بسهولة وأمان.</p>
+
+    <p>
+        <img src="cloud.jpg" alt="صورة توضيحية لتقنية التخزين السحابي" width="300">
+    </p>
+
+    <hr>
+
+    <h2>عرض الموضوع</h2>
+    
+    <h3>مفهوم وأهمية المنصات السحابية</h3>
+    <p>تساعد المنصات السحابية على توفير بيئة عمل مرنة وتشاركية، مما يرفع من كفاءة الإنتاجية ويوفر في التكاليف التشغيلية.</p>
+
+    <h3>مقارنة بين أشهر خدمات التخزين السحابي</h3>
+    <p>فيما يلي جدول يوضح مقارنة بسيطة بين أبرز منصات التخزين السحابي:</p>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>اسم الخدمة</th>
+                <th>المساحة المجانية</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Google Drive</td>
+                <td>15 جيجابايت</td>
+            </tr>
+            <tr>
+                <td>OneDrive</td>
+                <td>5 جيجابايت</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+
+    <h2>المراجع</h2>
+    <ul>
+        <li><a href="https://www.google.com/drive/" target="_blank">دليل خدمات Google Drive</a></li>
+        <li><a href="https://www.microsoft.com" target="_blank">موقع Microsoft</a></li>
+    </ul>
+
+</body>
+</html>
